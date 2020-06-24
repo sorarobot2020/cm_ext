@@ -1,5 +1,15 @@
 *.class
 
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+.mvn
+mvnw*
+META-INF/
+logs/
+
 # Eclipse files
 .classpath
 .project
